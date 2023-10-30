@@ -1,4 +1,4 @@
-This code appears to be a Python script that calculates a user's eligibility for a loan based on various input parameters. It begins by asking the user for personal information.
+Python code that calculates a user's eligibility for a loan based on various input parameters It begins by asking the user for personal information.
 such as their name, date of birth, employment details, and financial status. The user's age is calculated based on the provided birthdate using the calculate_age function.
 The code then determines the user's eligibility for a loan by considering factors such as income, bank preferences, house ownership, car financing, loan purpose, 
 and employment length. If the user is eligible for a loan, the script generates and presents loan options with different loan amounts and interest rates.
